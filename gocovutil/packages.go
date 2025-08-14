@@ -2,10 +2,11 @@ package gocovutil
 
 import (
 	"encoding/json"
-	"github.com/axw/gocov"
 	"io/ioutil"
 	"os"
 	"sort"
+
+	"github.com/afunix/gocov"
 )
 
 // Packages represents a set of gocov.Package structures.

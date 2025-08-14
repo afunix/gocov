@@ -2,11 +2,11 @@
 
 Coverage reporting tool for The Go Programming Language
 
-[![Build Status](https://travis-ci.org/axw/gocov.svg?branch=master)](https://travis-ci.org/axw/gocov)
+[![Build Status](https://travis-ci.org/afunix/gocov.svg?branch=master)](https://travis-ci.org/afunix/gocov)
 
 ## Installation
 
-```go install github.com/axw/gocov/gocov@latest```
+```go install github.com/afunix/gocov/gocov@latest```
 
 ## Usage
 
@@ -54,4 +54,4 @@ A simple GUI wrapper for the gocov coverage analysis tool.
 A simple helper tool for generating HTML output from gocov.
 
 [gocov-xml](https://github.com/AlekSi/gocov-xml):
-A simple helper tool for generating XML output in Cobertura format for CIs like Jenkins and others from gocov. 
+A simple helper tool for generating XML output in Cobertura format for CIs like Jenkins and others from gocov.
